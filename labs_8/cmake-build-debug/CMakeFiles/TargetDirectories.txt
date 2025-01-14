@@ -1,0 +1,3 @@
+C:/Users/stla7/OneDrive/Рабочий стол/labs_2_tirs/labs_8/cmake-build-debug/CMakeFiles/labs_8.dir
+C:/Users/stla7/OneDrive/Рабочий стол/labs_2_tirs/labs_8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/stla7/OneDrive/Рабочий стол/labs_2_tirs/labs_8/cmake-build-debug/CMakeFiles/rebuild_cache.dir
